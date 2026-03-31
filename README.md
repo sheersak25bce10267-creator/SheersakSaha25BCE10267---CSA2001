@@ -9,7 +9,6 @@ The project is built using standard Python scripts for a production-ready workfl
 * `Crop_recommendation.csv`: The dataset containing 2,200 records of soil and weather metrics mapped to 22 unique crops.
 * `analyze_data.py`: An Exploratory Data Analysis (EDA) script that generates visual insights, including feature correlation heatmaps and environmental distribution charts.
 * `train_model.py`: The core machine learning pipeline. It preprocesses the data, performs hyperparameter tuning using Grid Search Cross-Validation, trains a Random Forest Classifier, and evaluates its accuracy.
-* `requirements.txt`: The list of Python libraries required to execute the code.
 * `crop_recommender_model.pkl`: The serialized machine learning model generated after training, ready for deployment.
 
 ## Setup Instructions
