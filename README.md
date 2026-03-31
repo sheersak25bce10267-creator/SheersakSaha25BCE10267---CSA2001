@@ -18,4 +18,3 @@ To run this project locally, ensure you have Python installed on your system. Op
   matplotlib
   seaborn
   scikit-learn
-  jupyter
